@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Welcome 
+            The Cloud Welcomes You
           </a>
         </header>
       </div>
